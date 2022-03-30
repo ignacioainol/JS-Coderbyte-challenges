@@ -1,0 +1,2 @@
+/[a-z]/i = String must start with a letter (case-insensitive)
+/[A-Za-z0-9_]*$/) = Must have only alphanumeric and underscore
